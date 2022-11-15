@@ -1,2 +1,1 @@
-print('Oi as1')
-print
+print('Oi 2')
